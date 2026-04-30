@@ -5,7 +5,7 @@ import {
   canManageTypeServices,
   canViewAuditLogs,
   canManagePetServices,
-} from "../auth/roleUtil";
+} from "../auth/roleUtils";
 import "./MainLayout.css";
 
 export default function MainLayout() {

@@ -9,7 +9,7 @@ import {
   canChangeBillingStatus,
   canExportReports,
   canManagePetServices,
-} from "../../auth/roleUtil";
+} from "../../auth/roleUtils";
 import "./PetServicesPage.css";
 
 const billingStatusLabels = {

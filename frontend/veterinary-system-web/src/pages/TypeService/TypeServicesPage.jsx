@@ -4,7 +4,7 @@ import {
   deleteTypeService,
   getTypeServices,
 } from "../../services/typeServiceService";
-import { canManageTypeServices } from "../../auth/roleUtil";
+import { canManageTypeServices } from "../../auth/roleUtils";
 import "./TypeServicesPage.css";
 
 export default function TypeServicesPage() {

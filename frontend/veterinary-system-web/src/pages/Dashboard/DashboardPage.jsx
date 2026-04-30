@@ -9,7 +9,7 @@ import {
   canDeleteClients,
   canManagePetServices,
   canManageTypeServices,
-} from "../../auth/roleUtil";
+} from "../../auth/roleUtils";
 import BillingStatusChart from "../../components/charts/BillingStatusChart";
 import RevenueChart from "../../components/charts/RevenueChart";
 import SystemDistributionChart from "../../components/charts/SystemDistributionChart";

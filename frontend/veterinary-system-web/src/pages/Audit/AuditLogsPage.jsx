@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { getAuditLogs } from "../../services/auditService";
 import { exportToExcel } from "../../utils/exportToExcel";
-import { canExportReports } from "../../auth/roleUtil";
+import { canExportReports } from "../../auth/roleUtils";
 import "./AuditLogsPage.css";
 
 const actionLabels = {
