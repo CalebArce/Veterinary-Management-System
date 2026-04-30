@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "VeterinarySystem.Domain/1.0.0": {
+        "runtime": {
+          "VeterinarySystem.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VeterinarySystem.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

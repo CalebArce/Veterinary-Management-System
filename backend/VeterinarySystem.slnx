@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="VeterinarySystem.Api/VeterinarySystem.Api.csproj" />
+  <Project Path="VeterinarySystem.Application/VeterinarySystem.Application.csproj" />
+  <Project Path="VeterinarySystem.Domain/VeterinarySystem.Domain.csproj" />
+  <Project Path="VeterinarySystem.Infrastructure/VeterinarySystem.Infrastructure.csproj" />
+</Solution>

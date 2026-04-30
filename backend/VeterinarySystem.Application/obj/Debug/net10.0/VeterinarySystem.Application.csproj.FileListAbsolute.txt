@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Application\bin\Debug\net10.0\VeterinarySystem.Application.deps.json
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Application\bin\Debug\net10.0\VeterinarySystem.Application.dll
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Application\bin\Debug\net10.0\VeterinarySystem.Application.pdb
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Application\bin\Debug\net10.0\VeterinarySystem.Domain.dll
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Application\bin\Debug\net10.0\VeterinarySystem.Domain.pdb
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Application\obj\Debug\net10.0\VeterinarySystem.Application.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Application\obj\Debug\net10.0\VeterinarySystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Application\obj\Debug\net10.0\VeterinarySystem.Application.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Application\obj\Debug\net10.0\VeterinarySystem.Application.AssemblyInfo.cs
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Application\obj\Debug\net10.0\VeterinarySystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Application\obj\Debug\net10.0\Veterina.B3AEDDB6.Up2Date
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Application\obj\Debug\net10.0\VeterinarySystem.Application.dll
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Application\obj\Debug\net10.0\refint\VeterinarySystem.Application.dll
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Application\obj\Debug\net10.0\VeterinarySystem.Application.pdb
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Application\obj\Debug\net10.0\ref\VeterinarySystem.Application.dll

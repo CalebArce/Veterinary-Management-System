@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Domain\bin\Debug\net10.0\VeterinarySystem.Domain.deps.json
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Domain\bin\Debug\net10.0\VeterinarySystem.Domain.dll
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Domain\bin\Debug\net10.0\VeterinarySystem.Domain.pdb
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Domain\obj\Debug\net10.0\VeterinarySystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Domain\obj\Debug\net10.0\VeterinarySystem.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Domain\obj\Debug\net10.0\VeterinarySystem.Domain.AssemblyInfo.cs
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Domain\obj\Debug\net10.0\VeterinarySystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Domain\obj\Debug\net10.0\VeterinarySystem.Domain.dll
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Domain\obj\Debug\net10.0\refint\VeterinarySystem.Domain.dll
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Domain\obj\Debug\net10.0\VeterinarySystem.Domain.pdb
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Domain\obj\Debug\net10.0\ref\VeterinarySystem.Domain.dll

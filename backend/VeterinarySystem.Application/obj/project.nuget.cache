@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AuZ2r0duBDc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\VeterinarySystem\\backend\\VeterinarySystem.Application\\VeterinarySystem.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
