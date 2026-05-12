@@ -9,6 +9,7 @@ import {
   YAxis,
 } from "recharts";
 
+// Displays monthly revenue trends using line charts
 export default function MonthlyRevenueChart({ data }) {
   return (
     <div className="chart-card wide-chart">

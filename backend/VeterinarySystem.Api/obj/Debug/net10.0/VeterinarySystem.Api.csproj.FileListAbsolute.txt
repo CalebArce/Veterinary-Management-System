@@ -167,3 +167,4 @@ C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Api\obj\Debug\ne
 C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Api\bin\Debug\net10.0\FluentValidation.dll
 C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Api\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Api\bin\Debug\net10.0\HealthChecks.SqlServer.dll
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Api\obj\Debug\net10.0\VeterinarySystem.Api.sourcelink.json

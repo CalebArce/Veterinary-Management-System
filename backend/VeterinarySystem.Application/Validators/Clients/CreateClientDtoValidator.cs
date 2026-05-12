@@ -3,6 +3,9 @@ using VeterinarySystem.Application.DTOs.Clients;
 
 namespace VeterinarySystem.Application.Validators.Clients;
 
+/// <summary>
+/// Validates client creation requests before business logic execution
+/// </summary>
 public class CreateClientDtoValidator : AbstractValidator<CreateClientDto>
 {
     public CreateClientDtoValidator()

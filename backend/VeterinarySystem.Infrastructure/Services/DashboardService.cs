@@ -5,7 +5,10 @@ using VeterinarySystem.Domain.Enums;
 using VeterinarySystem.Infrastructure.Data;
 
 namespace VeterinarySystem.Infrastructure.Services;
-
+/// <summary>
+/// Provides business intelligence metrics and dashboard analytics
+/// related to revenues, services, and system statistics
+/// </summary>
 public class DashboardService : IDashboardService
 {
     private readonly AppDbContext context;
@@ -15,6 +18,9 @@ public class DashboardService : IDashboardService
         context = _context;
     }
 
+    /// <summary>
+    /// Calculates overall dashboard statistics filtered by optional date range
+    /// </summary>
     public async Task<DashboardSummaryDto> GetSummaryAsync(DateTime? startDate, DateTime? endDate)
     {
         var query = context.PetServices.AsQueryable();
@@ -47,6 +53,9 @@ public class DashboardService : IDashboardService
         };
     }
 
+    /// <summary>
+    /// Generates monthly revenue analytics for dashboard charts
+    /// </summary>
     public async Task<List<MonthlyRevenueDto>> GetMonthlyRevenueAsync(
         DateTime? startDate,
         DateTime? endDate)

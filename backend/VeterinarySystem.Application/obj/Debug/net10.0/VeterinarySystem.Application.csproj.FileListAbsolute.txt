@@ -13,3 +13,4 @@ C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Application\obj\
 C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Application\obj\Debug\net10.0\refint\VeterinarySystem.Application.dll
 C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Application\obj\Debug\net10.0\VeterinarySystem.Application.pdb
 C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Application\obj\Debug\net10.0\ref\VeterinarySystem.Application.dll
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Application\obj\Debug\net10.0\VeterinarySystem.Application.sourcelink.json

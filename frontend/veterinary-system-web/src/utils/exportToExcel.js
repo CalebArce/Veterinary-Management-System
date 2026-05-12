@@ -1,3 +1,5 @@
+// Utility for generating downloadable Excel reports from system data
+
 import * as XLSX from "xlsx";
 
 export const exportToExcel = (data, fileName, sheetName = "Reporte") => {

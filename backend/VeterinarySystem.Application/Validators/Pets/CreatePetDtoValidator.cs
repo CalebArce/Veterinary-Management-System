@@ -3,6 +3,9 @@ using VeterinarySystem.Application.DTOs.Pets;
 
 namespace VeterinarySystem.Application.Validators.Pets;
 
+/// <summary>
+/// Ensures pet data integrity and validates required fields
+/// </summary>
 public class CreatePetDtoValidator : AbstractValidator<CreatePetDto>
 {
     public CreatePetDtoValidator()

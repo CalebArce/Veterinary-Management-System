@@ -8,6 +8,7 @@ import {
   YAxis,
 } from "recharts";
 
+// Visualizes billing status distribution for veterinary services
 export default function BillingStatusChart({ summary }) {
   const data = [
     {

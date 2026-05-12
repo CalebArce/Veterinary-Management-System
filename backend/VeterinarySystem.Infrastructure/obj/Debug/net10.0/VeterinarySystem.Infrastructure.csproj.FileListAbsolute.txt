@@ -17,3 +17,4 @@ C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Infrastructure\o
 C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Infrastructure\obj\Debug\net10.0\VeterinarySystem.Infrastructure.pdb
 C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Infrastructure\obj\Debug\net10.0\VeterinarySystem.Infrastructure.genruntimeconfig.cache
 C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Infrastructure\obj\Debug\net10.0\ref\VeterinarySystem.Infrastructure.dll
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Infrastructure\obj\Debug\net10.0\VeterinarySystem.Infrastructure.sourcelink.json

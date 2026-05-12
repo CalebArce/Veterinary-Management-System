@@ -9,3 +9,4 @@ C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Domain\obj\Debug
 C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Domain\obj\Debug\net10.0\refint\VeterinarySystem.Domain.dll
 C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Domain\obj\Debug\net10.0\VeterinarySystem.Domain.pdb
 C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Domain\obj\Debug\net10.0\ref\VeterinarySystem.Domain.dll
+C:\Users\USER\Desktop\VeterinarySystem\backend\VeterinarySystem.Domain\obj\Debug\net10.0\VeterinarySystem.Domain.sourcelink.json

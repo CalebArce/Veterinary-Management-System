@@ -6,6 +6,9 @@ using VeterinarySystem.Application.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
+/// <summary>
+/// Main Entity Framework database context used for application persistence
+/// </summary>
 public class AppDbContext : DbContext
 {
     private readonly ICurrentUserService? currentUserService;
@@ -75,6 +78,8 @@ public class AppDbContext : DbContext
 
             entity.Property(c => c.UpdatedBy)
                 .HasMaxLength(150);
+            // Business Rule:
+            // A pet can only belong to one client
             entity.HasMany(c => c.Pets)
                 .WithOne(p => p.client)
                 .HasForeignKey(p => p.ClientId)

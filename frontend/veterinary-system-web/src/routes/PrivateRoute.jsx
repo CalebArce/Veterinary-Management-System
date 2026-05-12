@@ -1,5 +1,6 @@
 import { Navigate } from "react-router-dom";
 
+// Protects routes by validating JWT authentication status
 export default function PrivateRoute({ children }) {
   const token = localStorage.getItem("accessToken");
 

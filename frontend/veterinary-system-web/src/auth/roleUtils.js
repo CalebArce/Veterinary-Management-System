@@ -1,3 +1,7 @@
+// Role-based access utility methods used to control
+// frontend permissions and UI visibility
+
+
 export const getCurrentRole = () => {
   return localStorage.getItem("userRole");
 };

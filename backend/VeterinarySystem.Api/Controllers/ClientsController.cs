@@ -80,6 +80,10 @@ public class ClientsController : ControllerBase
 
     }
 
+    /// <summary>
+    /// Security:
+    /// Only administrators can perform delete operations
+    /// </summary>
     [HttpDelete("{id:int}")]
     [Authorize(Roles = AppRoles.Admin)]
     public async Task<IActionResult> Delete(int id)

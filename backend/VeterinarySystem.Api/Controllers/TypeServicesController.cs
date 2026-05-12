@@ -79,6 +79,10 @@ public class TypeServicesController : ControllerBase
         return Ok(ApiResponse<object>.Ok(null!, "Tipo de servicio actualizado"));
     }
 
+    /// <summary>
+    /// Security:
+    /// Only administrators can perform delete operations
+    /// </summary>
     [HttpDelete("{id:int}")]
     [EnableRateLimiting("SensitivePolicy")]
     [Authorize(Roles = AppRoles.Admin)]

@@ -15,6 +15,10 @@ public class ExceptionHandlingMiddleware
         logger = _logger;
     }
 
+    /// <summary>
+    /// Global middleware responsible for capturing unhandled exceptions
+    /// and returning standardized API error responses
+    /// </summary>
     public async Task InvokeAsync(HttpContext httpContext)
     {
         try

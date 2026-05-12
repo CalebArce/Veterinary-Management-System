@@ -1,7 +1,10 @@
+// Centralized Axios client configured with JWT authentication
+// and API URL handling
+
 import axios from "axios";
 
 const apiClient = axios.create({
-  baseURL: import.meta.env.VITE_API_URL,
+  baseURL: "http://localhost:5147/api",
   headers: {
     "Content-Type": "application/json",
   },

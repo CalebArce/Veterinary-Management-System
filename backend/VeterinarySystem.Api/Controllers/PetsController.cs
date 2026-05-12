@@ -87,6 +87,10 @@ public class PetsController : ControllerBase
         return Ok(ApiResponse<object>.Ok(null!, "Mascota actualizada"));
     }
 
+    /// <summary>
+    /// Security:
+    /// Only administrators can perform delete operations
+    /// </summary>
     [HttpDelete("{id:int}")]
     [Authorize(Roles = AppRoles.Admin)]
     public async Task<IActionResult> Delete(int id)

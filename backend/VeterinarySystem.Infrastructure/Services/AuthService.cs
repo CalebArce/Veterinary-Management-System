@@ -64,6 +64,10 @@ public class AuthService : IAuthService
         };
     }
 
+    /// <summary>
+    /// Authenticates the user and generates a JWT token
+    /// containing role and identity claims for secure API access.
+    /// </summary>
     public async Task<AuthResponseDto> LoginAsync(LoginRequestDto dto)
     {
         var user = await context.Users.FirstOrDefaultAsync(u => u.Email == dto.Email && u.IsActive);
